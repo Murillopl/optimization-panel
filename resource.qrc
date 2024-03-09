@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>images/25231.png</file>
+    <file>images/BlueStacks.png</file>
+    <file>images/7207229.png</file>
+    <file>images/2112374.png</file>
+    <file>images/App-player-icon.png</file>
+    <file>images/regedit.png</file>
+    <file>images/4438834.png</file>
+  </qresource>
+</RCC>
